@@ -1,5 +1,8 @@
 .card {
   width: 540px;
+  font-family: noto-serif, "times new roman", serif;
+  font-size: 16px;
+  line-height: 20px;
 
 }
 

@@ -28,13 +28,12 @@ margin: 0;
   font-family: "Noto Serif", "times new roman", serif;
 font-size: 20px;
 line-height: 30px;
-margin: 0 0 20px;
 margin: 0;
 }
 
 .about__circle {
   position:absolute;
-  background-color: #0a2850;
+  background: #1878DC;
   border-radius: 50%;
   width: 426px;
   height: 426px;
