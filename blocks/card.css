@@ -1,6 +1,6 @@
 .card {
   width: 540px;
-  font-family: noto-serif, "times new roman", serif;
+  font-family: "noto-serif", "times new roman", serif;
   font-size: 16px;
   line-height: 20px;
 
@@ -9,11 +9,14 @@
 .card__list-item {
   display: flex;
   gap: 10px;
+  font-family: "Noto Serif", "Times New Roman", serif;
+font-size: 16px;
+line-height: 20px;
 }
 
 .card__title {
   margin: 0 0 32px;
-  font-family: "Inter";
+  font-family: "Inter", Arial, sans-serif;
 font-weight: bold;
 font-size: 20px;
 line-height: 30px;
