@@ -12,5 +12,6 @@ This is the second project of the Software Engineering program at TripleTen. It 
 - CSS animation and transform
 
 ## Plan on improving the project
+https://wahid2025-fayeq.github.io/se_project_coffeeshop/
 
 Add your ideas here :)
